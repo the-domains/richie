@@ -6,9 +6,9 @@ color:
   saturation: 0.582590784644708
   rhythmicContrast: 0.03674787585623562
   brandColors:
-    - '#000000'
-    - '#23A5BB'
-    - '#B87757'
-    - '#EDA839'
-    - '#2D5B65'
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
 name: Richie
